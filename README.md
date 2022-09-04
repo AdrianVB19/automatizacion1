@@ -1,10 +1,10 @@
 # Getting started with Serenity and Cucumber and Adrian
 
-Serenity BDD is a library that makes it easier to write high quality automated acceptance tests, with powerful reporting and living documentation features. It has strong support for both web testing with Selenium, and API testing using RestAssured.
+Serenity BDD es una biblioteca que facilita la escritura de pruebas de aceptación automatizadas de alta calidad, con potentes funciones de informes y documentación viva. Tiene un fuerte soporte tanto para pruebas web con Selenium como para pruebas de API usando RestAssured.
 
-Serenity strongly encourages good test automation design, and supports several design patterns, including classic Page Objects, the newer Lean Page Objects/ Action Classes approach, and the more sophisticated and flexible Screenplay pattern.
+Serenity recomienda encarecidamente un buen diseño de automatización de pruebas y es compatible con varios patrones de diseño, incluidos los objetos de página clásicos, el nuevo enfoque de clases de acción/objetos de página lean y el patrón de guión más sofisticado y flexible.
 
-The latest version of Serenity supports Cucumber 6.x.
+La última versión de Serenity es compatible con Cucumber 6.x.
 
 ## The starter project
 The best place to start with Serenity and Cucumber is to clone or download the starter project on Github ([https://github.com/serenity-bdd/serenity-cucumber-starter](https://github.com/serenity-bdd/serenity-cucumber-starter)). This project gives you a basic project setup, along with some sample tests and supporting classes. There are two versions to choose from. The master branch uses a more classic approach, using action classes and lightweight page objects, whereas the **[screenplay](https://github.com/serenity-bdd/serenity-cucumber-starter/tree/screenplay)** branch shows the same sample test implemented using Screenplay.
